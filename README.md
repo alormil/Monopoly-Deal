@@ -8,7 +8,7 @@ As part of this project, I'll try learning & playing with some new tech (Rust), 
 I'll be using Github to manage the features & issues that need to be implemented for developping the app. I'm going to attempt to deliver the app in an iterative way, here are some high level milestones I'll be able aiaming to get to :
 
 - [ ] Go over Rust programming basics
-- [ ] Boostrap basic application
+- [ ] Bootsrap basic application
 - [ ] Deploy app to AWS with proper CI/CD pipeline
 - [ ] Implement basic CLI version of game (which would allow for game to be played)
 - [ ] Add rule validation & automate certain aspect of the game 
